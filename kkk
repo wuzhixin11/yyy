@@ -2,4 +2,9 @@
 import math
 
 def shuxue():
-  
+  if a > 11:
+    print ('taida')
+  elif a > 9:
+    retrun a
+  elif:
+    
